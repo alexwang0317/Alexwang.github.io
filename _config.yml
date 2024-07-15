@@ -21,7 +21,7 @@ repository               : "alexwang0317/Alexwang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/IMG_9888 (1).png"
+  avatar           : images/IMG_9888.png
   name             : "Alex Lin wang"
   pronouns         : # example: "she/her"  
   bio              : "Researcher learning to build."
