@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a sophomore student at Stanford University 🌲 studying Math and CS. 
+Hi! I'm a sophomore at Stanford University (go trees 🌲!) studying Math and CS. 
 
 My interests are diverse, spanning from computational drug discovery research 💊 (where I am a member of the [Ron Dror Group](https://drorlab.stanford.edu/)) to NLP 🤖 to building hardware/software. 
  
