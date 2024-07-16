@@ -12,11 +12,12 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
   - title: "Resume/CV"
     url: /files/Alex_Wang_Resume.pdf
+
+    
+  - title: "Blog Posts"
+    url: /year-archive/
     
   # - title: "Guide"
   #   url: /markdown/
