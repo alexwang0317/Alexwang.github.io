@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a sophomore at Stanford University (go trees 🌲!) studying Math and CS. 
+Hi! I'm a sophomore at Stanford University 🌲 studying Math and CS. 
 
 My interests are diverse, spanning from computational drug discovery research 💊 (where I am a member of the [Ron Dror Group](https://drorlab.stanford.edu/)) to NLP 🤖 to building hardware/software. 
  
-In my freetime, I sing acapella 🎵 for the [Stanford Mendicants](https://stanfordmendicants.com/) where we sing the tenor/lead parts. I also love to fence 🤺 where I specifically fence foil and run 🏃 (a new strava enthusiast).
+In my freetime, I sing acapella 🎵 for the [Stanford Mendicants](https://stanfordmendicants.com/) where I sing the tenor/lead parts. I also love to fence 🤺: I  fence foil.
 
 Feel free to reach out if you would like to chat/connect at alexw17 at stanford dot edu. I am always happy to chat! 
 
