@@ -19,7 +19,8 @@ Selected Projects
 ======
 Here are some fun/interesting things I've done: 
 1. [Building Drones that Respond to Voice Commands](https://drive.google.com/file/d/1ySvLhD_-F-yIzr4IbxILDwCjSymwu-lH/view?usp=sharing)
-2. [Improving Multi-Agentic LLM Creativity](https://drive.google.com/file/d/1s5V4dYky-vsPLQHjqE2ueYpN3xnhgC5d/view?usp=sharing)
-3. [Taylor Swift & Genetic Algorithms](https://github.com/alexwang0317/TaylorSwiftGeneticAlgorithms/blob/main/Taylor_Swift_Paradox%20(12).pdf) 
-4. [Low-Cost Tuberculosis Detection with CRISPR-Cas12a](https://drive.google.com/file/d/1YN2QKDYRtH4l5QQVBpHWo_RkHZWZ0T-q/view?usp=sharing)
-5. [Chemical Sculptures](https://drive.google.com/file/d/1PqKvKNTgwOwVSjqYGeRECQLEIRoCMu3-/view?usp=sharing)
+2. [Walkable: To Uber or not to Uber](https://drive.google.com/file/d/1pJGjy6LGP-HVn0tuHtDvbcZwJBnyb-QZ/view?usp=sharing)
+3. [Improving Multi-Agentic LLM Creativity](https://drive.google.com/file/d/1s5V4dYky-vsPLQHjqE2ueYpN3xnhgC5d/view?usp=sharing)
+4. [Taylor Swift & Genetic Algorithms](https://github.com/alexwang0317/TaylorSwiftGeneticAlgorithms/blob/main/Taylor_Swift_Paradox%20(12).pdf) 
+5. [Low-Cost Tuberculosis Detection with CRISPR-Cas12a](https://drive.google.com/file/d/1YN2QKDYRtH4l5QQVBpHWo_RkHZWZ0T-q/view?usp=sharing)
+6. [Chemical Sculptures](https://drive.google.com/file/d/1PqKvKNTgwOwVSjqYGeRECQLEIRoCMu3-/view?usp=sharing)
