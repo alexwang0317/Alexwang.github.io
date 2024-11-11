@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! I'm a sophomore at Stanford University 🌲 studying Math and CS. 
 
-My interests are diverse, currently, I'm exploring the space of autonomous systems and decision-making in out-of-distribution situations as a member of Stanford ASL. I previously worked in computational drug discovery research 💊 (where I was a member of the [Ron Dror Group](https://drorlab.stanford.edu/)) and was also interested in Agent-based reasoning in NLP 🤖. 
+My interests are diverse, currently, I'm exploring the space of autonomous systems and decision-making in out-of-distribution situations as a member of [Stanford ASL](https://stanfordasl.github.io/). Here's a [drone fencing demo](https://x.com/alexwan10574446/status/1854261579258200550). I previously worked in computational drug discovery research 💊 (where I was a member of the [Ron Dror Group](https://drorlab.stanford.edu/)) and was also interested in Agent-based reasoning in NLP 🤖. 
  
 In my freetime, I sing acapella 🎵 for the [Stanford Mendicants](https://stanfordmendicants.com/) where I sing the tenor/lead parts. I also love to fence 🤺: I  fence foil.
 
