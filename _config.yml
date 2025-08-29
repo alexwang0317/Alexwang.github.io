@@ -11,8 +11,8 @@ locale                   : "en-US"
 title                    : "Alex's Homepage"
 title_separator          : "-"
 name                     : &name "Alex Wang"
-description              : &description "Alex Wang's Website"
-url                      : https://alexwang0317.github.io/Alexwang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Alex Wang's Homepage"
+url                      : https://alexwang0317.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alexwang0317/Alexwang.github.io"
 
@@ -22,12 +22,12 @@ repository               : "alexwang0317/Alexwang.github.io"
 author:
   # Biographic information
   avatar           : "IMG_9888.png"
-  name             : "Alex Lin wang"
+  name             : "Alex Lin Wang"
+  中文名            : "王帅" 
   pronouns         : # example: "she/her"  
   bio              : "Researcher learning to build."
   location         : "Palo Alto, CA"
-  employer         : "Stanford University"
-  uri              : # URL
+  substack         : "(I Write!)[https://alexwang0317.substack.com/]"
   email            : "alexw17 at stanford dot edu" 
 
   # Academic websites
@@ -65,7 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "alexwan10574446"
+  twitter          : "alexlinwang"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
