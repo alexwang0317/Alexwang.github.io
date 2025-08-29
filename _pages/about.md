@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a junior at Stanford University 🌲 studying Math and CS. 
+I'm a junior at Stanford University studying Pure Math and CS. 
 
-I was an prod engineering intern at [Meta](https://www.meta.com/about/) working on their disaster recovery team, building internal tooling to profile/track large-scale data center failures. I've worked on autonomous systems and decision-making in out-of-distribution situations as a member of [Stanford ASL](https://stanfordasl.github.io/). I've also previously worked in computational drug discovery research (where I was a member of the [Ron Dror Group](https://drorlab.stanford.edu/)) and also worked on interested in multi-agent collaboration for a trading startup. I also enjoyed a brief stint in [organometallic catalysis research](https://www.mdpi.com/2624-8549/4/2/29). 
+I was an production engineering intern at [Meta](https://www.meta.com/about/) working on their disaster recovery team, building internal tooling to profile/track large-scale data center failures. I've worked on autonomous systems and decision-making in out-of-distribution situations as a member of [Stanford ASL](https://stanfordasl.github.io/). I've also previously worked in computational drug discovery research (where I was a member of the [Ron Dror Group](https://drorlab.stanford.edu/)) and also worked on interested in multi-agent collaboration for a trading startup. I also enjoyed a brief stint in [organometallic catalysis research](https://www.mdpi.com/2624-8549/4/2/29). 
  
 In my freetime, I sing acapella 🎵 with the [Stanford Mendicants](https://stanfordmendicants.com/) where I sing tenor and play guitar. 
 
