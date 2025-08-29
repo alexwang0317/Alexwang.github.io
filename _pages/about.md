@@ -15,7 +15,7 @@ I'm a junior at Stanford University studying Pure Math and CS.
 - Computational drug discovery in the [Ron Dror Group](https://drorlab.stanford.edu/)
 - [Organometallic catalysis research](https://www.mdpi.com/2624-8549/4/2/29)
 
-In my freetime, I sing tenor with the [SWhatanford Mendicants](https://stanfordmendicants.com/) and play guitar. 
+In my freetime, I sing tenor with the [Stanford Mendicants](https://stanfordmendicants.com/) and play guitar. 
 
 Projects 
 ======
