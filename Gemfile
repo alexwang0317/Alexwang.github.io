@@ -23,6 +23,8 @@ group :jekyll_plugins do
   # gem "jekyll-archives"
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
-  gem 'hawkins'
-  gem "webrick", "~> 1.8"
+  # gem 'hawkins'  # Not supported by GitHub Pages
 end
+
+# For local development only
+gem "webrick", "~> 1.8"
